@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: com.example.projet_java_algo_simon_lucot.TradMain
-
